@@ -64,8 +64,8 @@ Jane Doe,jane@example.com,XYZ Ltd.
 #### Excel Format:
 | name | email | company |
 |------|-------|---------|
-| John Smith | john@example.com | ABC Company |
-| Jane Doe | jane@example.com | XYZ Ltd. |
+| Ero Peaker | eroni@example.com | ABC Company |
+| Eron Doe | ero@example.com | XYZ Ltd. |
 
 ### 4. Create Email Template
 ```
@@ -242,5 +242,6 @@ schedule.every().monday.do(send_weekly_newsletter)
 This project is licensed under the MIT License.
 
 ---
+
 
 **⚠️ Warning**: This tool should only be used for legal purposes. Spamming is prohibited and may result in account closure.
