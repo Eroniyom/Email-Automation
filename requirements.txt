@@ -1,0 +1,8 @@
+smtplib
+email
+csv
+pandas
+schedule
+colorama
+python-dotenv
+openpyxl

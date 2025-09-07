@@ -1,0 +1,17 @@
+{
+  "welcome": {
+    "subject": "Welcome to {company}, {name}!",
+    "body": "Dear {name},\n\nWelcome to {company}! We're excited to have you as our new {position}.\n\nBest regards,\nHR Team",
+    "html_body": "<html><body><h2>Welcome to {company}, {name}!</h2><p>Dear <strong>{name}</strong>,</p><p>Welcome to <strong>{company}</strong>! We're excited to have you as our new <strong>{position}</strong>.</p><p>Best regards,<br>HR Team</p></body></html>"
+  },
+  "newsletter": {
+    "subject": "Weekly Newsletter - {date}",
+    "body": "Hello {name},\n\nHere's this week's newsletter from {company}:\n\n• Product updates\n• Industry news\n• Upcoming events\n\nBest regards,\nMarketing Team",
+    "html_body": "<html><body><h2>Weekly Newsletter</h2><p>Hello <strong>{name}</strong>,</p><p>Here's this week's newsletter from <strong>{company}</strong>:</p><ul><li>Product updates</li><li>Industry news</li><li>Upcoming events</li></ul><p>Best regards,<br>Marketing Team</p></body></html>"
+  },
+  "reminder": {
+    "subject": "Reminder: {event}",
+    "body": "Dear {name},\n\nThis is a friendly reminder about {event}.\n\nDate: {date}\nTime: {time}\nLocation: {location}\n\nWe look forward to seeing you there!\n\nBest regards,\nEvent Team",
+    "html_body": "<html><body><h2>Reminder: {event}</h2><p>Dear <strong>{name}</strong>,</p><p>This is a friendly reminder about <strong>{event}</strong>.</p><table border='1' cellpadding='5'><tr><td><strong>Date:</strong></td><td>{date}</td></tr><tr><td><strong>Time:</strong></td><td>{time}</td></tr><tr><td><strong>Location:</strong></td><td>{location}</td></tr></table><p>We look forward to seeing you there!</p><p>Best regards,<br>Event Team</p></body></html>"
+  }
+}
